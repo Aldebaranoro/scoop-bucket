@@ -16,7 +16,7 @@
 
 ```shell
 > scoop bucket add Aldebaranoro https://github.com/Aldebaranoro/scoop-bucket
-> scoop install team-divider
+> scoop install Aldebaranoro/team-divider
 ```
 
 [team-divider.tests.page]:        https://github.com/Aldebaranoro/team-divider/actions/workflows/go.yml
